@@ -1,0 +1,2 @@
+# AssetStudioGUIExportSpine
+对AssetStudioGUI导出的资源进行处理，进一步导出Unity可识别的Spine资源
